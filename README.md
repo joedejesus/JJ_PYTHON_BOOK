@@ -1,12 +1,11 @@
 # JJ_PYTHON_BOOK  
 ### *Libro interactivo de Python — diseñado para Visual Studio Code*
 
----
-
 ## 📘 Descripción
 
 **JJ_PYTHON_BOOK** es un libro interactivo creado para aprender Python de forma práctica, modular y progresiva.  
 No es un PDF, no es un libro tradicional:  
+
 👉 Es un **entorno de aprendizaje** diseñado para ser usado directamente en **Visual Studio Code**.
 
 El repositorio contiene **21 capítulos**, cada uno en su propia carpeta.  
@@ -15,27 +14,13 @@ GitHub los muestra separados, pero **al descargar el repositorio se obtiene una 
 Este libro funciona como un **lienzo para construir conocimiento**:  
 cada archivo está pensado para ser leído, ejecutado, modificado y experimentado.
 
-La filosofía, el origen del proyecto y la narrativa completa se encuentran dentro del propio libro, en:
-
-01_INTRODUCCION/
-
----
-
-## 🏷️ Badges
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC.svg)
-![Estado](https://img.shields.io/badge/Estado-Activo-success.svg)
-![Formato](https://img.shields.io/badge/Libro-Interactivo-9cf.svg)
-
----
+La filosofía, el origen del proyecto y la narrativa completa se encuentran dentro del propio libro, en
+la carpeta: 01_INTRODUCCION/
 
 ## 🎯 Objetivo del libro
 
 Este libro busca que aprendas Python **haciendo**, no solo leyendo.  
 Cada capítulo está diseñado para que avances de forma natural, entendiendo conceptos y aplicándolos al instante.
-
----
 
 ## 💡 Por qué Visual Studio Code
 
@@ -47,8 +32,6 @@ Este libro está creado específicamente para VS Code porque:
 - ofrece una experiencia de aprendizaje moderna y práctica  
 
 VS Code es el **lienzo** donde este libro cobra vida.
-
----
 
 ## 🛠️ Cómo usar este libro
 
@@ -71,8 +54,6 @@ Cada carpeta es un tema.
 Cada archivo es una explicación o ejemplo.  
 La estructura está diseñada para que aprendas **haciendo**, no solo leyendo.
 
----
-
 ## 🎓 A quién va dirigido
 
 - Autodidactas  
@@ -81,25 +62,18 @@ La estructura está diseñada para que aprendas **haciendo**, no solo leyendo.
 - Personas que quieren aprender Python de forma clara y práctica  
 - Cualquiera que prefiera aprender **interactuando con el código**
 
----
-
 ## 📎 Requisitos
 
 - **VS Code** (recomendado)  
 - **Python 3.10+**  
 - Extensión de Python para VS Code (opcional pero útil)
 
----
-
 ## 🛣️ Roadmap
 
 - Añadir más ejercicios prácticos  
 - Añadir ejemplos avanzados  
 - Añadir retos de programación  
-- Añadir sección de proyectos finales  
-- Añadir capturas de pantalla del libro en VS Code  
-
----
+- Añadir sección de proyectos finales   
 
 ## 🤝 Contribuciones
 
@@ -111,14 +85,10 @@ Este proyecto acepta:
 - Comentarios  
 - Pull Requests (previa revisión)
 
----
-
 ## 👤 Autor
 
 **Joe de Jesús Fernández Diniz**  
 Creador del libro interactivo *JJ_PYTHON_BOOK*.
-
----
 
 ## 📌 Notas adicionales
 
@@ -140,13 +110,3 @@ Puedes abrir un *issue*, dejar un comentario o proponer un *pull request*.
 Cada aportación, por pequeña que sea, ayuda a que este libro crezca y se convierta en una herramienta aún más útil para todos.
 
 Gracias por formar parte del aprendizaje.
-
-
-
-
-
-
-
-
-
-
