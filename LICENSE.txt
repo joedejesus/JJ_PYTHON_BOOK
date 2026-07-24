@@ -1,0 +1,14 @@
+Copyright © 2026 Joe de Jesús Fernández Diniz
+Todos los derechos reservados.
+
+Este libro interactivo, incluyendo su código, estructura, contenido pedagógico,
+archivos, ejemplos y diseño, está protegido por las leyes internacionales de
+derechos de autor.
+
+Se permite descargar este repositorio para uso personal y educativo.
+
+No se permite copiar, reproducir, distribuir, modificar, publicar, vender,
+traducir ni utilizar ninguna parte de este repositorio, en ninguna forma o
+medio, sin autorización expresa y por escrito del autor.
+
+El uso no autorizado de este contenido está estrictamente prohibido.
