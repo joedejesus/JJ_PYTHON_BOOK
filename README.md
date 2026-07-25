@@ -3,7 +3,7 @@
 
 ## 📘 Descripción
 
-**JJ_PYTHON_BOOK** es un libro interactivo creado para aprender Python de forma práctica, modular y progresiva.  
+**JJ_PYTHON_BOOK** es la primera parte de un libro interactivo creado para aprender Python de forma práctica, modular y progresiva.  
 No es un PDF, no es un libro tradicional:  
 
 👉 Es un **entorno de aprendizaje** diseñado para ser usado directamente en **Visual Studio Code**.
@@ -39,8 +39,9 @@ Este libro está diseñado para ser usado **localmente**, dentro de VS Code.
 
 ### ✔ 1. Descarga el repositorio completo
 
-Pulsa el botón verde **Code → Download ZIP**  
-o usa: git clone https://github.com/joedejesus/JJ_PYTHON_BOOK
+Pulsa el botón verde **Code → Download ZIP**  o usa: 
+
+git clone https://github.com/joedejesus/JJ_PYTHON_BOOK
 
 Esto descargará las **21 carpetas del libro** dentro de una sola carpeta llamada `JJ_PYTHON_BOOK`.
 
