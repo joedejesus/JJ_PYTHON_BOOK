@@ -104,8 +104,8 @@ Estas extensiones mejoran la experiencia de aprendizaje, la detección de errore
 - **Monokai Atenuado**  
   Tema con excelente legibilidad, contraste equilibrado y comodidad visual para sesiones largas.
 
-### Configuración obligatoria del Zonn en VS Code
-- **Zonn Menos Uno**  
+### Configuración obligatoria del Zoom en VS Code
+- **Zoom Menos Uno**  
   Debe configurarse en **“-1”** para evitar que el contenido se muestre demasiado grande y obligue a desplazar la barra horizontal.  
   Es la única configuración que garantiza una visualización correcta del libro.
 
