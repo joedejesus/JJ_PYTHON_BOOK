@@ -4,12 +4,15 @@
 ## 📘 Descripción
 
 **JJ_PYTHON_BOOK** es la primera parte de un libro interactivo creado para aprender Python de forma práctica, modular y progresiva.  
+
 No es un PDF ni un libro tradicional.
 
-👉 Es un **entorno de aprendizaje** pensado para usarse directamente en **Visual Studio Code**, aunque también puede consultarse desde GitHub para revisar conceptos, resolver dudas rápidas o explorar el contenido sin necesidad de descargar nada.
+👉 Es un **entorno de aprendizaje** pensado para usarse directamente en **Visual Studio Code**, aunque también puede consultarse desde 
+GitHub para revisar conceptos, resolver dudas rápidas o explorar el contenido sin necesidad de descargar nada.
 
 El repositorio contiene **21 capítulos**, cada uno en su propia carpeta.  
-GitHub los muestra por separado, pero al descargar el repositorio obtienes **una sola carpeta con todo el libro**, tal como fue diseñado para VS Code.
+GitHub los muestra por separado, pero al descargar el repositorio obtienes **una sola carpeta con todo el libro**, tal como fue diseñado 
+para VS Code.
 
 Este libro funciona como un **lienzo para construir conocimiento**.  
 Cada archivo está pensado para ser leído, ejecutado, modificado y experimentado.
