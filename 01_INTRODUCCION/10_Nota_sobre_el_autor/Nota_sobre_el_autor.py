@@ -1,5 +1,5 @@
 # Nota_sobre_el_autor.py
-"""Mi nombre es Joe De Jesús Fernández Diniz. Comencé a programar el 10 de febrero de 2025 y  llegué
+"""Mi nombre es Joe De Jesús Fernández Diniz. Comencé a programar el 10 de febrero de 20XX y  llegué
 a Python desde cero, aprendiendo a base de errores, paciencia y mucha práctica. No vengo  del  mundo
 de la informática, pero siempre he sentido la necesidad de entender cómo funcionan las cosas, y  esa
 forma de pensar me acompañó durante todo el proceso.
