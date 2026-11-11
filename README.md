@@ -3,7 +3,7 @@
 
 ## 📘 Descripción
 
-**JJ_PYTHON_BOOK** es la primera parte de un libro interactivo para aprender Python de forma práctica,  
+**JJ PYTHON BOOK** es la primera parte de un libro interactivo para aprender Python de forma práctica,  
 modular y progresiva.
 
 ✨ No es un PDF ni un libro tradicional.  
