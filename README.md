@@ -1,4 +1,4 @@
-# JJ_PYTHON_BOOK  
+# JJ PYTHON BOOK  
 ### *Libro interactivo de Python — diseñado para Visual Studio Code*
 
 ## 📘 Descripción
